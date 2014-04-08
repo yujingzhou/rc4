@@ -56,7 +56,7 @@ public class Rc4
 
     public static void main(String[] args) 
     {
-        FileInputStream in = null;
+        FileInputStream in = null;   
         FileOutputStream out = null;
         
 		//Inicializa o gerador de sequências pseudo-aleatórias com a chave fornecida via linha de comando
